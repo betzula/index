@@ -2,16 +2,44 @@
 <html lang="tr">
 <head>
     <meta charset="UTF-8">
-	<link rel="icon" type="image/gif" href="https://hizliresim.com/6j80xdp">
-    <title>Hacked By kayrasins</title>
+    <title>KAYRASİNS HATIRASI</title>
+ <style>
+    body {
+  font-family: "Work Sans";
+}
+
+p {
+  font-size: 50px;
+  font-weight: 100;
+  animation: hello 0.5s ease-in-out infinite;
+  text-align: center;
+}
+
+ hello {
+  0% {
+    font-weight: 100;
+  }
+  50% {
+    font-weight: 900;
+  }
+  100% {
+    font-weight: 100;
+  }
+}
+body{
+background-color: black
+}
+</style>
 </head>
-<center><a style="text-decoration:none;" target="_blank" href="" rel="noopener noreferrer"> <font color="white" size="6" face="Iceland"><font face="Denk One" size="5" style="color: white; text-shadow: 0px 1px 6px white;background:url(&#39;https://i.ibb.co/4mHYH6h/zubab.gif&#39;);"></font><br></center>
-<body style="background-color: #000;">
-<audio loop autoplay="" class="music" style="display: none;"> <source src="https://www.mboxdrive.com/altay-kai.mp3" type="audio/mpeg"></audio>
-<center><img src="https://hizliresim.com/6j80xdp" "alt=""></center>
-    <center><h3><font face="System" color="red">Hacked 'kayrasins</h1></center>
-	<center><h3><font face="System" color="turquoise">KAYRASİNS VE PETRAS GEÇTİ BURADAN :D HATIRA GİBİ OLSUN BU İNDEX</h1></center>
-    <center><h4><font face="System" color="white">İstediğimiz Zaman İstediğimiz Yerde ~ KİNG PETRAS KİNG KAYRASİNS</h2></center>
-    <center><h4><font face="System" color="yellow">Greetz:  PETRAS, KAYRASİNS </h4></center>
+<body>
+<center>
+    <img src="https://i.hizliresim.com/1mg5kp4.png" width="300px height=300px"><br>
+   <a style="color:black;">Keyfimiz Paşalarda Yok Halimiz İtten Beter.</a><br>
+    <font size="10"><a href="https://discord.gg/8aQ6m54cGe">Hacked by kayrasins , petras</a></font><br>
+    <font size="10"><ol style="color:black;">
+</ol></font>
+
+</center>
+
 </body>
 </html>
